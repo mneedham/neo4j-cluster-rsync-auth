@@ -20,7 +20,7 @@
  # Number of Neo4j worker threads.
  #dbms.threads.worker_count=
  
- --- neo4j-enterprise-3.1.4/conf/neo4j.conf	2016-10-06 06:03:07.000000000 +0200
+--- neo4j-enterprise-3.1.4/conf/neo4j.conf	2016-10-06 06:03:07.000000000 +0200
 +++ core_1/conf/neo4j.conf	2016-10-06 12:17:19.000000000 +0200
 @@ -163,7 +163,7 @@
  # CORE - Core member of the cluster, part of the consensus quorum.
