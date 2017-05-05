@@ -1,4 +1,4 @@
---- neo4j-enterprise-3.1.0-BETA1/conf/neo4j.conf	2016-10-06 06:03:07.000000000 +0200
+--- neo4j-enterprise-3.1.4/conf/neo4j.conf	2016-10-06 06:03:07.000000000 +0200
 +++ core_1/conf/neo4j.conf	2016-10-06 12:17:19.000000000 +0200
 @@ -77,7 +77,7 @@
  # Bolt connector
