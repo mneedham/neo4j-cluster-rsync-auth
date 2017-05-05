@@ -1,6 +1,6 @@
 --- neo4j-enterprise-3.1.0-BETA1/conf/neo4j.conf	2016-10-06 06:03:07.000000000 +0200
 +++ core_1/conf/neo4j.conf	2016-10-06 12:17:19.000000000 +0200
-@@ -70,15 +70,15 @@
+@@ -77,15 +77,15 @@
  # Bolt connector
  dbms.connector.bolt.enabled=true
  #dbms.connector.bolt.tls_level=OPTIONAL
@@ -19,7 +19,7 @@
  
  # Number of Neo4j worker threads.
  #dbms.threads.worker_count=
-@@ -144,35 +144,35 @@
+@@ -163,35 +163,35 @@
  # CORE - Core member of the cluster, part of the consensus quorum.
  # EDGE - Edge member of the cluster, an eventually-consistent read-only instance of the database.
  # To operate this Neo4j instance in Core-Edge mode as a core member, uncomment this line:
