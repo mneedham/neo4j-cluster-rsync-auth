@@ -19,7 +19,7 @@
  
  # Number of Neo4j worker threads.
  #dbms.threads.worker_count=
-@@ -163,35 +163,35 @@
+@@ -163,7 +163,7 @@
  # CORE - Core member of the cluster, part of the consensus quorum.
  # EDGE - Edge member of the cluster, an eventually-consistent read-only instance of the database.
  # To operate this Neo4j instance in Core-Edge mode as a core member, uncomment this line:
